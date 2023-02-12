@@ -12,5 +12,5 @@ Developed a student information system using C# and DB where you can do the foll
 5- Exit the system!!
 
 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/95551889/218321794-e28322c8-1380-4cb0-be54-9ccb87212406.gif)
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/95551889/218321204-70d41d78-ee7e-4714-9938-bcce70a8082c.gif)
